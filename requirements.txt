@@ -1,0 +1,15 @@
+ipython
+jupyter
+matplotlib
+panda
+rise
+scikit-learn
+seaborn
+sklearn-pandas
+plotly
+dtreeviz
+eli5
+shap
+lime
+lightgbm
+xgboost
